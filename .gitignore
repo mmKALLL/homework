@@ -19,7 +19,7 @@ lib/
 lib64/
 parts/
 sdist/
-var/
+Gvar/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -84,6 +84,9 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+
+# User stuff
+bazel-0.17.1-windows-x86_64.exe
 
 # Rope project settings
 .ropeproject
